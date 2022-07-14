@@ -1,11 +1,11 @@
 import React from 'react';
 import ContainerBlock from '../components/ContainerBlock';
-import Projects from '../components/Projects';
+import ProjectsData from '../components/ProjectsData';
 
 export default function projects() {
   return (
     <ContainerBlock title="Projects - Aniket Panchal">
-        <Projects />
+        <ProjectsData />
     </ContainerBlock>
   )
 }

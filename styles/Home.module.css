@@ -114,3 +114,7 @@
     flex-direction: column;
   }
 }
+
+.nav-con {
+  max-width: 82%;
+}

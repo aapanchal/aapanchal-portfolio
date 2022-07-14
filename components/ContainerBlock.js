@@ -5,7 +5,7 @@ import Navbar from './Navbar'
 import Footer from './Footer'
 
 export default function ContainerBlock({
-    children,
+  children,
     ...customMeta
 }){
     const meta ={
@@ -45,7 +45,7 @@ export default function ContainerBlock({
         </Head>
         <main className="dark:bg-gray-800 w-full">
           <Navbar />
-          <div></div>
+          <div>{children}</div>
           <Footer />
         </main>
       </div>
