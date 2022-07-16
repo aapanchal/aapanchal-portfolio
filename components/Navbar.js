@@ -195,17 +195,17 @@ export default function Navbar() {
           </a>
         </Link>
         <Link href="/projects">
-          <a className="text-base font-normal text-gray-600 dark:text-gray-300">
+          <a className="text-base font-normal text-gray-600 dark:text-gray-300 ml-1">
             Projects
           </a>
         </Link>
         <Link href="/experience">
-          <a className="text-base font-normal text-gray-600 dark:text-gray-300">
+          <a className="text-base font-normal text-gray-600 dark:text-gray-300 ml-1">
             Experience
           </a>
         </Link>
         <Link href="/contact">
-          <a className="text-base font-normal text-gray-600 dark:text-gray-300">
+          <a className="text-base font-normal text-gray-600 dark:text-gray-300 ml-1">
             Contact
           </a>
         </Link>

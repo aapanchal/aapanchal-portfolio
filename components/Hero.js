@@ -5,7 +5,7 @@ import userData from "../constant/data";
 export default function Hero() {
   const colors = ["#F59E0B", "#84CC16", "#10B981", "#3B82F6"];
   return (
-    <div className="flex flex-row justify-center items-start overflow-hidden">
+    <div id="main-hero" className="justify-center items-start overflow-hidden">
       {/* Text container */}
 
       <div className="text-zone w-full md:w-1/2 mx-auto text-center md:text-left lg:p-20 mt-20">
@@ -21,7 +21,7 @@ export default function Hero() {
         <p className="gray-text">Front End Developer </p>
       </div>
       {/* Image container */}
-      <div className="hidden lg:block relative w-full md:w-1/2 -mr-40 ">
+      <div className=" lg:block relative w-full md:w-1/2 -mr-40 ">
         <div className="w-3/4 ">
           <img src={userData.avatarUrl} alt="avatar" className=" shadow" />
           <div className="flex flex-row justify-between mt-4">
