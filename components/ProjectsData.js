@@ -5,7 +5,7 @@ export default function ProjectsData() {
   return (
     <section className="bg-white dark:bg-gray-800">
       <div className="max-w-6xl mx-auto h-48 bg-white dark:bg-gray-800">
-        <h1 className=" text-5xl md:text-9xl font-bold py-20 text-center md:text-left">
+        <h1 className="text-gray-400 text-5xl md:text-9xl font-bold py-20 text-center md:text-left">
           Projects
         </h1>
       </div>
@@ -38,7 +38,7 @@ const ProjectCard = ({ title, link, imgUrl, number }) => {
           <img
             src={imgUrl}
             alt="portfolio"
-            className="transform hover:scale-125 transition duration-2000 ease-out object-cover h-full w-full"
+            className="transform hover:scale-125 transition duration-1000 ease-out object-cover h-full w-full"
           />
         </div>
         <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
