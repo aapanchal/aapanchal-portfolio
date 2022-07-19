@@ -18,36 +18,7 @@ const userData = {
         link: "https://placeholdertech.in",
         imgUrl: "/Portfolio.png",
       },
-      // {
-      //   title: "Portfolio",
-      //   link: "https://manuarora.in",
-      //   imgUrl: "/portfolio.png",
-      // },
-      // {
-      //   title: "CovidRescue",
-      //   link: "https://covidrescue.co.in",
-      //   imgUrl: "/covidrescue.png",
-      // },
-      // {
-      //   title: "Algochurn",
-      //   link: "https://algochurn.com",
-      //   imgUrl: "/algochurn.png",
-      // },
-      // {
-      //   title: "Playground",
-      //   link: "https://play.placeholdertech.in",
-      //   imgUrl: "/playground.png",
-      // },
-      // {
-      //   title: "Feedmeback",
-      //   link: "https://feedmeback.vercel.app",
-      //   imgUrl: "/feedmeback.png",
-      // },
-      // {
-      //   title: "Devmedium",
-      //   link: "https://devmedium.vercel.app",
-      //   imgUrl: "/devmedium.png",
-      // },
+    
     ],
     about: {
       title:
@@ -95,7 +66,7 @@ const userData = {
       },
     ],
     resumeUrl:
-      "https://drive.google.com/file/d/1uhLjnaZplKj6bri2zcYFj--y4UG6lmFt/view?usp=sharing",
+      "https://drive.google.com/file/d/188J60VUYhbMqfFZw1m-J3XDA-e0rFTFV/view?usp=sharing",
     socialLinks: {
       instagram: "https://instagram.com/aniket28__",
       twitter: "https://twitter.com/Aniketpanchal28",
