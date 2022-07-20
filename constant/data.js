@@ -66,7 +66,7 @@ const userData = {
       },
     ],
     resumeUrl:
-      "https://drive.google.com/file/d/188J60VUYhbMqfFZw1m-J3XDA-e0rFTFV/view?usp=sharing",
+      "https://drive.google.com/file/d/1IaNQGWyRfSZCdiuxhsfOgr8yIFUBz79U/view?usp=sharing",
     socialLinks: {
       instagram: "https://instagram.com/aniket28__",
       twitter: "https://twitter.com/Aniketpanchal28",
