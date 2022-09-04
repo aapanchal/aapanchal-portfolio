@@ -19,6 +19,7 @@ export default function Hero() {
           Web Developer,
         </h1>
         <p className="gray-text">Front End Developer </p>
+        
       </div>
       {/* Image container */}
       <div className=" lg:block relative w-full md:w-1/2 -mr-40 ">

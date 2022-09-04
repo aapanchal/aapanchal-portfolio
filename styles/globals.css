@@ -35,9 +35,12 @@
   .text-zone h1{
     color: #08fdd8;
   }
+
 #main-hero{
     display: flex;
     flex-direction: row;
+    font-family: 'VALORANT';
+    src: url('/fonts/Valorant\ Font.ttf');
 }
   @media only screen and (max-width: 380px) {
     .nav-con {
