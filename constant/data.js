@@ -42,7 +42,7 @@ const userData = {
       id: "002",
       title: "Front End Developer",
       company: "Thinksense.ai",
-      year: "2019",
+      year: "2022",
       companyLink: "Thinksense.ai",
       desc: "Contributed to our flagship product - APR-AI - which is an AI powered Automated Process Recognation product.",
     },
